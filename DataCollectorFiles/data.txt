@@ -1,0 +1,20 @@
+{"performance": "-70,00", "total_money": "9.724.329,00", "ydt": "6,54", "aktie": "A.P. M\u00f8ller - M\u00e6rsk A", "bid": "9.450,00", "performance_pct": "-0,73"}
+{"performance": "-105,00", "total_money": "46.870.767,50", "ydt": "9,69", "aktie": "A.P. M\u00f8ller - M\u00e6rsk B", "bid": "9.840,00", "performance_pct": "-1,06"}
+{"performance": "1,00", "total_money": "21.475.881,50", "ydt": "2,2", "aktie": "Carlsberg B", "bid": "625,00", "performance_pct": "0,16"}
+{"performance": "0,80", "total_money": "7.953.687,30", "ydt": "-6,32", "aktie": "Chr. Hansen Holding", "bid": "404,30", "performance_pct": "0,20"}
+{"performance": "-3,60", "total_money": "21.025.437,10", "ydt": "-10,25", "aktie": "Coloplast B", "bid": "499,90", "performance_pct": "-0,72"}
+{"performance": "-0,50", "total_money": "56.676.606,60", "ydt": "1,67", "aktie": "Danske Bank", "bid": "188,20", "performance_pct": "-0,26"}
+{"performance": "-2,50", "total_money": "24.838.995,30", "ydt": "22,82", "aktie": "DSV", "bid": "333,70", "performance_pct": "-0,74"}
+{"performance": "-0,80", "total_money": "5.575.613,20", "ydt": "3,96", "aktie": "FLSmidth & Co", "bid": "249,50", "performance_pct": "-0,32"}
+{"performance": "-24,00", "total_money": "104.764.994,00", "ydt": "20,11", "aktie": "Genmab", "bid": "1.102,00", "performance_pct": "-2,13"}
+{"performance": "-1,70", "total_money": "12.857.725,60", "ydt": "12,85", "aktie": "GN Store Nord", "bid": "141,30", "performance_pct": "-1,19"}
+{"performance": "-4,20", "total_money": "66.751.278,30", "ydt": "16,19", "aktie": "H. Lundbeck", "bid": "273,30", "performance_pct": "-1,51"}
+{"performance": "-0,10", "total_money": "31.330.144,85", "ydt": "8,24", "aktie": "ISS", "bid": "269,10", "performance_pct": "-0,04"}
+{"performance": "3,00", "total_money": "45.284.060,90", "ydt": "-0,42", "aktie": "Jyske Bank", "bid": "310,70", "performance_pct": "0,97"}
+{"performance": "-0,65", "total_money": "8.464.035,05", "ydt": "-18,87", "aktie": "Nordea Bank", "bid": "61,40", "performance_pct": "-1,05"}
+{"performance": "-4,40", "total_money": "264.060.947,80", "ydt": "-22,48", "aktie": "Novo Nordisk B", "bid": "309,80", "performance_pct": "-1,40"}
+{"performance": "-2,00", "total_money": "26.500.079,10", "ydt": "-14,58", "aktie": "Novozymes B", "bid": "282,30", "performance_pct": "-0,70"}
+{"performance": "-8,50", "total_money": "47.611.348,50", "ydt": "-0,97", "aktie": "Pandora A/S", "bid": "863,00", "performance_pct": "-0,97"}
+{"performance": "-0,27", "total_money": "12.094.090,16", "ydt": "7,79", "aktie": "TDC", "bid": "37,08", "performance_pct": "-0,72"}
+{"performance": "-1,00", "total_money": "73.559.264,95", "ydt": "14,82", "aktie": "Vestas Wind Systems", "bid": "555,50", "performance_pct": "-0,18"}
+{"performance": "-1,30", "total_money": "8.983.680,70", "ydt": "3,58", "aktie": "William Demant Holding", "bid": "136,00", "performance_pct": "-0,95"}
