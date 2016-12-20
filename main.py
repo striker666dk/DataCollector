@@ -1,9 +1,7 @@
-import file_manager
-import data_collector
+from file_manager import *
+from store_manager import Store
 
-def start():
-    file_manager.create_files()
-    data_collector.collect_data(file_manager.get_options())
+def collect_data():
+    fakta = Store("fakta", "http://www.fakta.dk/tilbudsavis/");
 
-
-start()
+collect_data()
